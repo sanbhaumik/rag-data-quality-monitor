@@ -1,4 +1,4 @@
-# RAG Source Monitor
+# RAG Source Data Quality Monitor
 
 A production-ready Retrieval-Augmented Generation (RAG) system with automated source quality monitoring. The system ingests content from public documentation sites (Python Docs, MDN, Wikipedia), provides conversational Q&A via a Streamlit interface, and continuously monitors source data quality using configurable health checks with email alerting.
 
