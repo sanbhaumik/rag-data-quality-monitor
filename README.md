@@ -2,6 +2,8 @@
 
 A production-ready Retrieval-Augmented Generation (RAG) system with automated source quality monitoring. The system ingests content from public documentation sites (Python Docs, MDN, Wikipedia), provides conversational Q&A via a Streamlit interface, and continuously monitors source data quality using configurable health checks with email alerting.
 
+Use [Bright Data SERP APIs](https://get.brightdata.com/2039fnr15xfy)
+
 ---
 
 ## Features
@@ -75,7 +77,7 @@ A production-ready Retrieval-Augmented Generation (RAG) system with automated so
   ollama pull nomic-embed-text
   ```
 - **Gmail App Password** (for email alerts) - [Create App Password](https://support.google.com/accounts/answer/185833)
-- **Bright Data API Key** (for SERP checks) - [Get API Key](https://brightdata.com)
+- **Bright Data API Key** (for SERP checks) - [Get API Key](https://get.brightdata.com/2039fnr15xfy)
 
 ### Installation
 
